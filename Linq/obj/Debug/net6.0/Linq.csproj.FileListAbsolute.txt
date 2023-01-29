@@ -1,0 +1,15 @@
+C:\Users\hwait\Desktop\C#\Linq\Linq\bin\Debug\net6.0\Linq.exe
+C:\Users\hwait\Desktop\C#\Linq\Linq\bin\Debug\net6.0\Linq.deps.json
+C:\Users\hwait\Desktop\C#\Linq\Linq\bin\Debug\net6.0\Linq.runtimeconfig.json
+C:\Users\hwait\Desktop\C#\Linq\Linq\bin\Debug\net6.0\Linq.dll
+C:\Users\hwait\Desktop\C#\Linq\Linq\bin\Debug\net6.0\Linq.pdb
+C:\Users\hwait\Desktop\C#\Linq\Linq\obj\Debug\net6.0\Linq.csproj.AssemblyReference.cache
+C:\Users\hwait\Desktop\C#\Linq\Linq\obj\Debug\net6.0\Linq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hwait\Desktop\C#\Linq\Linq\obj\Debug\net6.0\Linq.AssemblyInfoInputs.cache
+C:\Users\hwait\Desktop\C#\Linq\Linq\obj\Debug\net6.0\Linq.AssemblyInfo.cs
+C:\Users\hwait\Desktop\C#\Linq\Linq\obj\Debug\net6.0\Linq.csproj.CoreCompileInputs.cache
+C:\Users\hwait\Desktop\C#\Linq\Linq\obj\Debug\net6.0\Linq.dll
+C:\Users\hwait\Desktop\C#\Linq\Linq\obj\Debug\net6.0\refint\Linq.dll
+C:\Users\hwait\Desktop\C#\Linq\Linq\obj\Debug\net6.0\Linq.pdb
+C:\Users\hwait\Desktop\C#\Linq\Linq\obj\Debug\net6.0\Linq.genruntimeconfig.cache
+C:\Users\hwait\Desktop\C#\Linq\Linq\obj\Debug\net6.0\ref\Linq.dll
