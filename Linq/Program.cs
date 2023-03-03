@@ -87,3 +87,14 @@ foreach (int VrNum in nQuery)
 {
     Console.Write("{0} ", VrNum);
 }
+
+//Arrange elements in a list in ascending order
+
+var itemList = new List<string>();
+var itemlist = (from c in itemList()
+                select c.ItemDes)
+                    .Distinct()
+                    .OrderBy(x => x);
+
+foreach (var item in itemlist)
+    Console.WriteLine(item);
